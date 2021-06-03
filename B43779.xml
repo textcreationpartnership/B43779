@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the clause intended in the act for the establishing the land-bank for denizing or naturalizing of all aliens that shall subscribe 500 l. to the said bank</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43779</idno><idno type="EEBO-CITATION">625260894</idno>
+  <idno type="VID">211327</idno>
+  <idno type="EEBO-PROQUEST">2240886087</idno>
+  
+            <idno type="OCLC"> 625260894</idno>
+            <idno type="OCLC">ocn 625260894</idno>
+            <idno type="STC">Wing R527</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211327)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the clause intended in the act for the establishing the land-bank for denizing or naturalizing of all aliens that shall subscribe 500 l. to the said bank</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: torn with slight loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banking law --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Bank deposits --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Naturalization --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211327:1"/>
+            <pb facs="tcp:211327:2"/>
+            <head>REASONS Humbly offered Against the <hi>CLAUSE</hi> intended in the <hi>ACT</hi> for the Establishing the <hi>LAND-BANK</hi> for Denizing or Naturalizing of all Aliens that shall subscribe <hi>500. l.</hi> to the said Bank.</head>
+            <p>IT has been the Prudence of the Princes of this Nation, always to take care to make a Distinction be<g ref="char:EOLhyphen"/>tween Natural born Subjects and Aliens of other Kingdoms, and have never incouraged, nor indeed tollerated them in any thing further than that which migh directly or collaterally be judged and esteem<g ref="char:EOLhyphen"/>ed for the Interest of their Natives: Neither were Aliens, in any Age, for any proposed Advantages, favoured and eased in any thing, but Experience immediately discovered many great Mischiefs to attend. Some of which are enumerated in an Act made for redressing these Grievances, <hi>Anno Henrici septimi, Cap.</hi> 2. and are hereafter mentioned.</p>
+            <list>
+               <item>First and Principally, <hi>The advancing Aliens in Riches and Honour, and impoverishing the Mative Subjects.</hi>
+               </item>
+               <item>Secondly. <hi>The exhausting the Treasure of the Nation, and remitting the same into Forreign Nations,</hi>
+               </item>
+               <item>Thirdly. <hi>The great hurt in imparing and lessening the King's Customs, the Publick Revenue of the Nation.</hi>
+               </item>
+               <item>Fourthly. <hi>That Marchants Aliens colour the Goods and Merchandizes of other Strangers (not Naturalized or made Denizons) and Export great and considerable Substance in their Names.</hi>
+               </item>
+            </list>
+            <p>Herewith agree the Statutes of 11 <hi>H.</hi> 7. <hi>cap.</hi> 14. and 22 <hi>H.</hi> 8. <hi>cap.</hi> 8. pursuant to the design of which Laws, few or no Aliens were Naturalized during the Reigns of King <hi>Edward</hi> the Sixth, Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> and King <hi>James.</hi> And how greatly the Trade and Wealth of the Nation were thereby increased, during the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>osperous Reigns of the two latter of the said Princes, none that are conversant in History can be igno<g ref="char:EOLhyphen"/>rant of.</p>
+            <p>Besides which Mischiefs, Experience hath discoverd further Inconveniencies, in admitting Aliens and Strangers to have and enjoy a free Trade upon equal Terms with his Majesties Native Subjects: As,</p>
+            <p>That the Trade, by Commission would be by Aliens taken out of the hands of his Majesties Subjects, both at home and abroad, and the <hi>English</hi> Merchants would be under sold in the Prizes of their Commodities by Aliens, who can live more hardly, and at less charges, in Lodgings, <hi>&amp;c.</hi> than the King's Subjects, to the discouragement of the Gentry, in training up their younger Sons in Trade, which was formerly esteemed and proved a good Pro<g ref="char:EOLhyphen"/>vision for them, and many arrived thereby to great Estates and Preferment, which few now do.</p>
+            <p>By the second Rule in the Book of Rates, annexed to the Act of Tonnage and Poundage, Goods Importe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and again Exported by <hi>English</hi> in Twelve Months, and Aliens in Nine Months, draw back from Their Majestie<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> half the Customes paid by them on the Importation; and in some Cases more than half.</p>
+            <p>By the Act of Tonnage and Poundage, Merchants <hi>English</hi> sustaining loss in their Goods Exported, by Enemies<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Pirates, or perishing in the Sea, draw back the whole Custome from his Majesty, which Prejudice his Majesty will sustain from Aliens Naturallized.</p>
+            <p>Now upon serious Consideration, If all <hi>Jews</hi> and <hi>Roman Catholicks</hi> (that are Enemies to our Faith and Religi<g ref="char:EOLunhyphen"/>on) are (for such subscribing 500 <hi>l.</hi> to this Land Bank) to receive equal Priviledges with our own Natives, i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will render this Bank a very <hi>Weak Fund,</hi> and give good Cause of <hi>Suspicion</hi> to our <hi>Allies</hi> and <hi>Enemies</hi> of our <hi>Poverty</hi>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> That we our selves cannot raise present <hi>Supplies</hi> to his Majesty without these <hi>Mean Helps,</hi> which in the end will be none at all, but a great loss to his Majesty in his Revenue, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ising by <hi>Petty Customes,</hi> upwards of 40000 <hi>l. per Ann.</hi> wherein by Law they are obliged to pay more than Natives, which will be a great disappointment to those, that have advanced Mony on that Fund in the Customes, and bring a further Charge upon our selves, instead of a help.</p>
+            <p>But if it shall be thought fit still to continue this great favour to Strangers, it is humbly desired that it may be with this Provisoe; <hi>(That they may not be in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etter Circumstances than our Natives, Freemen,</hi> Viz.</p>
+            <p>
+               <hi>Provided alwayes, and be if further Enacted by the Authority aforesaid, That nothing in this Act contained shall ex<g ref="char:EOLhyphen"/>empt, or be construed to exempt any Forreigner? who shall ubscribe the sum of</hi> 500 l. <hi>or more as aforesaid from the pay<g ref="char:EOLhyphen"/>ment of any Tolls or Duties heretofore lawfully enjoyed, o received by any Body Corporate or Politick, but the same shall still be paid, as if this Act had not been made.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
